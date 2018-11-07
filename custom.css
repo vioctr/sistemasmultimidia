@@ -16,21 +16,19 @@ body {
     margin-bottom: 10px;
     text-align: center;
     background: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-menu{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
 }
 
 /* Create two unequal columns that floats next to each other */
 /* Left column */
 .leftcolumn {   
     float: left;
-    width: 75%;
-    margin-bottom: 10px;
-}
-
-/* Right column */
-.rightcolumn {
-    float: left;
-    width: 25%;
-    padding-left: 20px;
+    width: 100%;
     margin-bottom: 10px;
 }
 
